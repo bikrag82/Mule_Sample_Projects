@@ -39,6 +39,7 @@
 								<applicationName>mule-sample-app</applicationName>
 								<redeploy>true</redeploy>
 								<environment>Sandbox</environment>
+								<redeploy>true</redeploy>
 					</cloudHubDeployment>
 				</configuration>
 			</plugin>
