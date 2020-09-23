@@ -34,12 +34,10 @@
 								<muleVersion>4.3.0</muleVersion>
 								<username>bikragSept2020</username>
 								<password>Hewlett@123</password>
-								<workers>1</workers>
-								<workerType>Micro</workerType>
 								<applicationName>mule-sample-app</applicationName>
-								<redeploy>true</redeploy>
 								<environment>Sandbox</environment>
-								<redeploy>true</redeploy>
+								<workerType>Micro</workerType>
+								<workers>1</workers>
 					</cloudHubDeployment>
 				</configuration>
 			</plugin>
